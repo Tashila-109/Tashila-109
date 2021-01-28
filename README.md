@@ -75,7 +75,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="tashila's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="tashila's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tashila_109&show_icons=true&hide_border=true?count_private=true" />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashila_109)](https://github.com/Tashila-109/github-readme-stats)
 
 </details>
 
