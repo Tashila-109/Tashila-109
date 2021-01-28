@@ -75,8 +75,8 @@
 
   <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="tashila's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tashila-109&show_icons=true&hide_border=true?count_private=true" />
- 
+[![Tashila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashila-109)](https://github.com/Tashila-109/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashila-109)](https://github.com/Tashila-109/github-readme-stats)
 
 [website]: https://tashila.io
