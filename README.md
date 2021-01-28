@@ -44,10 +44,10 @@
 
 ---
 
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Javascript Framewroks That Need Your Attention](https://tashila.io/blog/javascript-framewroks-that-need-your-attention)
 - [Frameworks Can Be Overwhelming](https://tashila.io/blog/frameworks-can-be-overwhelming)
 - [Advanced Object Oriented Programming with Python](https://tashila.io/blog/advanced-object-oriented-programming-with-python)
@@ -58,10 +58,11 @@
 ➡️ [more blog posts...](https://tashila.io)
 
 ---
-<!-- 
+
+<!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
-  
+
 <!--START_SECTION:activity-->
 <!-- 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
 2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
@@ -72,14 +73,11 @@
 
 <!-- </details> -->
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="tashila's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tashila-109&show_icons=true&hide_border=true?count_private=true" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashila-109)](https://github.com/Tashila-109/github-readme-stats)
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashila-109)](https://github.com/Tashila-109/github-readme-stats)
 
 [website]: https://tashila.io
 [twitter]: https://twitter.com/Tashila_dev
