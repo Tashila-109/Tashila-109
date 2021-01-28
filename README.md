@@ -75,9 +75,9 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-[![Tashila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashila-109&show_icons=true&theme=radical)](https://github.com/Tashila-109/github-readme-stats)
+[![Tashila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashila-109&show_icons=true&theme=tokyonight)](https://github.com/Tashila-109/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashila-109)](https://github.com/Tashila-109/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashila-109&theme=tokyonight)](https://github.com/Tashila-109/github-readme-stats)
 
 [website]: https://tashila.io
 [twitter]: https://twitter.com/Tashila_dev
